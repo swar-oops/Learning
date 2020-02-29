@@ -11,3 +11,7 @@ print('The string is {r:1.4f}'.format(r=result))
 #another way of using f-strings
 name1 = 'lambdababu'
 print(f'This is his {name1}')
+#easy way to do string interpolation
+age = 10
+name = 'maya'
+print(f'{name} is gonna become {age} this month')
