@@ -14,4 +14,3 @@ set(mylist)
 print(mylist)
 print(set(mylist))
 print(new_set)
-
