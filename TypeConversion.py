@@ -2,7 +2,7 @@
 #Example    
 a = '100' #String variable
 b = type(int(a)) #Converting the string variable with the method type() to change the string variable to the type "int" 
-print(b) #Storing the converted type in variable b.
+print(b) #Storing the converted type in variable b and printing b.
 #Another way implementing the same as above would look like this:
 Type = type(int(str(100)))
 print(Type)
