@@ -1,3 +1,7 @@
+#Lists are similar to arrays in general programming languages such as C, C++ & Java etc
+#Lists can store data type such as string, integer & float.
+#These are the basic and the most complex data structures as it is used in almost every program related to data structures.
+
 my_list = ['three','4','five','six','7']
 new_list = [] + my_list #concatenating a list
 print(new_list) 
