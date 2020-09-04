@@ -6,7 +6,7 @@ print('The string is {a} {c} {b}'.format(a='amazing',b = 'great',c = 'okay'))
 #floating point boys   {value:width.precisionf}
 #result 
 result = 10.213123312
-print('The string is {r:1.4f}'.format(r=result))
+print('The string is {r:1.4f}'.format(r = result))
 
 #another way of using f-strings
 name1 = 'lambdababu'
